@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Fertilizer Recommendation System
+# Laporan Proyek Machine Learning - Fertilizer Recommendation System - Bagas Rizky Ramadhan
 
 ## Project Overview
 
